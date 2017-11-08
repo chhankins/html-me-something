@@ -40,7 +40,7 @@ h2{
 }
 
 
-.creatorlist {
+#creatorlist {
     display: block;
     list-style-type: disc;
     -webkit-margin-before: 1em;
